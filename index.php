@@ -46,7 +46,7 @@ if (isset($_POST['submit'])) {
 
 <head>
     <meta charset="utf-8">
-    <title>Mazagan </title>
+    <title>Hello World </title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/main.css?v=<?php echo time(); ?>">
     <script src="https://kit.fontawesome.com/dbed6b6114.js" crossorigin="anonymous"></script>
